@@ -53,4 +53,4 @@ I specialize in building end-to-end machine learning lifecycles, containerized d
 
 ### 🤝 Connect with Me
 * **LinkedIn:** [linkedin.com/in/aman-yadav-b14a37229](https://www.linkedin.com/in/aman-yadav-b14a37229)
-* **Email:** `your.email@example.com`
+* **Email:** `aman9005156678@gmail.com`
